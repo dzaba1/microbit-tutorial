@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 This repo is a MakeCode project (`pxt.json`) that only contains tutorials.
 
 - `lessons/<name>.md` — tutorial in the default language (English).
-- `lessons/_locales/<isocode>/<name>.md` — localized copy (same filename); MakeCode picks the best match for the editor language.
+- `_locales/<isocode>/lessons/<name>.md` — localized copy. `_locales` must be at the repo root and mirror the tutorial's path from the repo root (MakeCode looks up `_locales/<lang>/<path>.md`); it picks the best match for the editor language.
 - `pxt.json` — every tutorial markdown file (including each locale copy) must be listed in `files`, otherwise MakeCode will not find it.
 - Tutorials are opened with `https://makecode.microbit.org/#tutorial:github:dzaba1/microbit-tutorial/lessons/<name>`.
 

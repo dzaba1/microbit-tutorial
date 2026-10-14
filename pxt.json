@@ -6,7 +6,7 @@
     },
     "files": [
         "lessons/beating-heart.md",
-        "lessons/_locales/pl/beating-heart.md",
+        "_locales/pl/lessons/beating-heart.md",
         "README.md"
     ],
     "testFiles": [
