@@ -1,47 +1,47 @@
-# Beating heart
+# Bijące serce
 
 ## @showdialog
 
-In this project, you will make a beating heart animation on your micro:bit.
+W tym projekcie stworzysz na swoim micro:bicie animację bijącego serca.
 
 ## 
-You don't need ``||basic: on start||`` so let's drop it back into the toolbox (the middle section) to tidy it away.
+Nie potrzebujesz bloku ``||basic: na początku||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu), aby zrobić porządek.
 
 ## 
-Now find the ``||basic: show icon||`` block.  It's in the Basic category in the toolbox.  
+Teraz znajdź blok ``||basic: pokaż ikonę||``. Znajdziesz go w kategorii Podstawowe w przyborniku.
 
-Put this inside the ``||basic: forever||`` block and then select the heart icon.
-
-## 
-Get another ``||basic: show icon||`` block (from the Basic category).  
-
-Put this inside the ``||basic: forever||`` block and then select the small heart icon.
+Umieść go wewnątrz bloku ``||basic: zawsze||`` i wybierz ikonę serca.
 
 ## 
-Let’s test your animation in the micro:bit on-screen simulator.
+Weź jeszcze jeden blok ``||basic: pokaż ikonę||`` (z kategorii Podstawowe).
 
-The micro:bit loops between a large and small heart to make the heart look like it is beating.  
-
-## 
-You can control the speed of your animation (fast or slow) by adding a pause block. 
-
-Find the ``||basic: pause||`` block (in the Basic category).  Add it after the first ``||basic: show icon||`` block. 
+Umieść go wewnątrz bloku ``||basic: zawsze||`` i wybierz ikonę małego serca.
 
 ## 
-Add another ``||basic: pause||`` block (in the Basic category) and put it after the second ``||basic: show icon||`` block. 
+Przetestujmy Twoją animację w symulatorze micro:bita na ekranie.
 
-Pauses are in milliseconds.  Change the numbers in the ``||basic: pause||``  blocks to change your animation speed. 
-
-## 
-Let’s test your code again in the micro:bit on-screen simulator to see your changes.
-
-You should see your new beating heart animation.  
+Micro:bit na przemian pokazuje duże i małe serce, dzięki czemu wygląda ono, jakby biło.
 
 ## 
-Now download your code onto your micro:bit.  Press the download button and follow the instructions.
+Szybkość animacji (szybką lub wolną) możesz kontrolować, dodając blok pauzy.
 
-You should see your beating heart animation on your micro:bit. 
+Znajdź blok ``||basic: wstrzymaj (ms)||`` (w kategorii Podstawowe). Dodaj go po pierwszym bloku ``||basic: pokaż ikonę||``.
+
+## 
+Dodaj kolejny blok ``||basic: wstrzymaj (ms)||`` (z kategorii Podstawowe) i umieść go po drugim bloku ``||basic: pokaż ikonę||``.
+
+Pauzy podawane są w milisekundach. Zmień liczby w blokach ``||basic: wstrzymaj (ms)||``, aby zmienić szybkość animacji.
+
+## 
+Przetestujmy Twój kod jeszcze raz w symulatorze micro:bita, aby zobaczyć zmiany.
+
+Powinieneś zobaczyć swoją nową animację bijącego serca.
+
+## 
+Teraz pobierz swój kod na micro:bita. Naciśnij przycisk pobierania i postępuj zgodnie z instrukcjami.
+
+Na swoim micro:bicie powinieneś zobaczyć animację bijącego serca.
 
 ## @showdialog
 
-Congratulations - you have made a micro:bit beating heart animation!
+Gratulacje – udało Ci się stworzyć animację bijącego serca na micro:bicie!
