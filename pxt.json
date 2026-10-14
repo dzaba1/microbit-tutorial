@@ -1,0 +1,23 @@
+{
+    "name": "microbit-tutorial",
+    "description": "Dzaba tutorials for MakeCode Microbit",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "lessons/beating-heart.md",
+        "lessons/_locales/pl/beating-heart.md",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
