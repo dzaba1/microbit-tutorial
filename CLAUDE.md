@@ -27,3 +27,9 @@ Tutorials are written in Polish only and are the default (and only) version. Do 
 - https://makecode.com/writing-docs/tutorials
 - https://makecode.com/writing-docs/user-tutorials
 - https://github.com/microsoft/pxt/tree/master/docs/writing-docs (source of the writing-docs pages)
+
+## Polish block vocabulary
+
+Block and category names in tutorials must match the Polish MakeCode editor exactly. The reference list (English → Polish) is imported below; check it before writing or editing any ``` ``||category: label||`` ``` reference, and extend it when you learn a new label.
+
+@vocabulary.md

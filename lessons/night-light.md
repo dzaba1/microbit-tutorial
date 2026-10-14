@@ -4,7 +4,7 @@
 W tym projekcie zamienisz swojego micro:bita w lampkę nocną, która włącza się automatycznie, gdy robi się ciemno.
 
 ## 
-Nie potrzebujesz bloku ``||basic: podczas uruchamiania||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu).
+Nie potrzebujesz bloku ``||basic: podczas uruchamiania||``, więc przeciągnij go z powrotem do zestawu narzędzi (środkowa część ekranu).
 
 ## 
 W kategorii Logika znajdź blok ``||logic: jeśli prawda to w przeciwnym razie||``.
@@ -25,9 +25,9 @@ Zmień drugie 0 na 100.
 Później możesz zmienić tę liczbę, w zależności od oświetlenia w Twoim pokoju.
 
 ## 
-Znajdź blok ``||basic: pokaż diody LED||`` (w kategorii Podstawowe) i umieść go pod ``||logic: jeśli... to||``.
+Znajdź blok ``||basic: pokaż LED||`` (w kategorii Podstawowe) i umieść go pod ``||logic: jeśli||``.
 
-Kliknij każdy kwadracik w bloku ``||basic: pokaż diody LED||`` tak, aby zapalić wszystkie diody, gdy poziom światła jest poniżej 100.
+Kliknij każdy kwadracik w bloku ``||basic: pokaż LED||`` tak, aby zapalić wszystkie diody, gdy poziom światła jest poniżej 100.
 
 ## 
 Teraz znajdź blok ``||basic: wyczyść ekran||`` (w kategorii Podstawowe) i umieść go pod ``||logic: w przeciwnym razie||``.

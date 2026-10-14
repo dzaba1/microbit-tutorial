@@ -4,24 +4,24 @@
 W tym projekcie zamienisz swojego micro:bita w grę w kamień, papier, nożyce.
 
 ## 
-Nie potrzebujesz bloków ``||basic: podczas uruchamiania||`` ani ``||basic: na zawsze||``, więc przeciągnij je z powrotem do przybornika (środkowa część ekranu).
+Nie potrzebujesz bloków ``||basic: podczas uruchamiania||`` ani ``||basic: na zawsze||``, więc przeciągnij je z powrotem do zestawu narzędzi (środkowa część ekranu).
 
 ## 
-W kategorii Wejście znajdź blok ``||input: po potrząśnięciu||`` i przeciągnij go do okna z kodem.
+W kategorii Wejście znajdź blok ``||input: na potrząśnij||`` i przeciągnij go do okna z kodem.
 
 ## 
 W kategorii Zmienne kliknij ``||variables: Utwórz zmienną||`` i nazwij ją „losowa-liczba”.
 
 ## 
-Znajdź blok ``||variables: ustaw losowa-liczba na 0||`` (w kategorii Zmienne) i umieść go wewnątrz bloku ``||input: po potrząśnięciu||``.
+Znajdź blok ``||variables: ustaw losowa-liczba na 0||`` (w kategorii Zmienne) i umieść go wewnątrz bloku ``||input: na potrząśnij||``.
 
 ## 
-Aby gra była uczciwa, znajdź blok ``||math: wybierz losową liczbę od 0 do 10||`` (w kategorii Matematyka).
+Aby gra była uczciwa, znajdź blok ``||math: wybierz losowo 0 do 10||`` (w kategorii Matematyka).
 
 Upuść go na 0 w bloku ``||variables: ustaw losowa-liczba na 0||``.
 
 ## 
-W bloku ``||math: wybierz losową liczbę od 0 do 10||`` zmień 0 na 1, a 10 na 3.
+W bloku ``||math: wybierz losowo 0 do 10||`` zmień 0 na 1, a 10 na 3.
 Teraz micro:bit będzie losował liczbę od 1 do 3, ponieważ mamy 3 możliwości: kamień, papier lub nożyce.
 
 ## 

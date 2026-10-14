@@ -5,7 +5,7 @@
 W tym projekcie zamienisz swojego micro:bita w krokomierz.
 
 ## 
-Nie potrzebujesz bloku ``||basic: na zawsze||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu).
+Nie potrzebujesz bloku ``||basic: na zawsze||``, więc przeciągnij go z powrotem do zestawu narzędzi (środkowa część ekranu).
 
 ## 
 Najpierw musimy utworzyć zmienną. Zmienna to pojemnik na dane, które chcemy wykorzystać później.
@@ -18,10 +18,10 @@ Pojawiło się kilka nowych bloków. Znajdź blok ``||variables: ustaw kroki na 
 Dzięki temu po uruchomieniu programu liczba zapisana w zmiennej „kroki” zostanie ustawiona na 0.
 
 ## 
-Następnie znajdź blok ``||input: po potrząśnięciu||`` (w kategorii Wejście) i przeciągnij go do okna z kodem.
+Następnie znajdź blok ``||input: na potrząśnij||`` (w kategorii Wejście) i przeciągnij go do okna z kodem.
 
 ## 
-Następnie znajdź blok ``||variables: zmień kroki o 1||`` (w kategorii Zmienne) i umieść go wewnątrz bloku ``||input: po potrząśnięciu||``.
+Następnie znajdź blok ``||variables: zmień kroki o 1||`` (w kategorii Zmienne) i umieść go wewnątrz bloku ``||input: na potrząśnij||``.
 
 Zwiększy to liczbę zapisaną w zmiennej „kroki” o 1 za każdym razem, gdy potrząśniesz micro:bitem lub nim poruszysz.
 
@@ -36,7 +36,7 @@ Musimy pokazać liczbę zapisaną w zmiennej „kroki”.
 Znajdź zmienną ``||variables: kroki||`` (w kategorii Zmienne) i upuść ją na 0 w bloku ``||basic: pokaż liczbę||``.
 
 ## 
-Przetestujmy Twój kod w symulatorze micro:bita na ekranie. W symulatorze pojawił się teraz przycisk potrząsania do testowania.
+Przetestujmy Twój kod w symulatorze micro:bita. W symulatorze pojawił się teraz przycisk potrząsania do testowania.
 
 Naciśnij przycisk potrząsania, a liczba pokazana na micro:bicie powinna wzrosnąć.
 
