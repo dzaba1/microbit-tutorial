@@ -6,6 +6,11 @@
     },
     "files": [
         "lessons/beating-heart.md",
+        "lessons/name-badge.md",
+        "lessons/emotion-badge.md",
+        "lessons/night-light.md",
+        "lessons/rock-paper-scissors.md",
+        "lessons/step-counter.md",
         "README.md"
     ],
     "testFiles": [
