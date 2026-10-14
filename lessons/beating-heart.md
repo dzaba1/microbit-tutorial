@@ -5,17 +5,17 @@
 W tym projekcie stworzysz na swoim micro:bicie animację bijącego serca.
 
 ## 
-Nie potrzebujesz bloku ``||basic: na początku||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu), aby zrobić porządek.
+Nie potrzebujesz bloku ``||basic: podczas uruchamiania||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu), aby zrobić porządek.
 
 ## 
 Teraz znajdź blok ``||basic: pokaż ikonę||``. Znajdziesz go w kategorii Podstawowe w przyborniku.
 
-Umieść go wewnątrz bloku ``||basic: zawsze||`` i wybierz ikonę serca.
+Umieść go wewnątrz bloku ``||basic: na zawsze||`` i wybierz ikonę serca.
 
 ## 
 Weź jeszcze jeden blok ``||basic: pokaż ikonę||`` (z kategorii Podstawowe).
 
-Umieść go wewnątrz bloku ``||basic: zawsze||`` i wybierz ikonę małego serca.
+Umieść go wewnątrz bloku ``||basic: na zawsze||`` i wybierz ikonę małego serca.
 
 ## 
 Przetestujmy Twoją animację w symulatorze micro:bita na ekranie.

@@ -5,7 +5,7 @@
 W tym projekcie zamienisz swojego micro:bita w krokomierz.
 
 ## 
-Nie potrzebujesz bloku ``||basic: zawsze||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu).
+Nie potrzebujesz bloku ``||basic: na zawsze||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu).
 
 ## 
 Najpierw musimy utworzyć zmienną. Zmienna to pojemnik na dane, które chcemy wykorzystać później.
@@ -13,7 +13,7 @@ Najpierw musimy utworzyć zmienną. Zmienna to pojemnik na dane, które chcemy w
 W kategorii Zmienne kliknij ``||variables: Utwórz zmienną||`` i nazwij ją „kroki”.
 
 ## 
-Pojawiło się kilka nowych bloków. Znajdź blok ``||variables: ustaw kroki na 0||`` i umieść go wewnątrz bloku ``||basic: na początku||``.
+Pojawiło się kilka nowych bloków. Znajdź blok ``||variables: ustaw kroki na 0||`` i umieść go wewnątrz bloku ``||basic: podczas uruchamiania||``.
 
 Dzięki temu po uruchomieniu programu liczba zapisana w zmiennej „kroki” zostanie ustawiona na 0.
 

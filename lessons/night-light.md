@@ -4,12 +4,12 @@
 W tym projekcie zamienisz swojego micro:bita w lampkę nocną, która włącza się automatycznie, gdy robi się ciemno.
 
 ## 
-Nie potrzebujesz bloku ``||basic: na początku||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu).
+Nie potrzebujesz bloku ``||basic: podczas uruchamiania||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu).
 
 ## 
 W kategorii Logika znajdź blok ``||logic: jeśli prawda to w przeciwnym razie||``.
 
-Umieść go wewnątrz bloku ``||basic: zawsze||``.
+Umieść go wewnątrz bloku ``||basic: na zawsze||``.
 
 ## 
 Znajdź blok porównania ``||logic: 0 < 0||`` (w kategorii Logika).

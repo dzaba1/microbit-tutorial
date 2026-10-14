@@ -5,12 +5,12 @@
 W tym projekcie zamienisz swojego micro:bita w identyfikator imienny.
 
 ## 
-Nie potrzebujesz bloku ``||basic: na początku||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu), aby zrobić porządek.
+Nie potrzebujesz bloku ``||basic: podczas uruchamiania||``, więc przeciągnij go z powrotem do przybornika (środkowa część ekranu), aby zrobić porządek.
 
 ## 
 Teraz znajdź blok ``||basic: pokaż napis||``. Znajdziesz go w kategorii Podstawowe w przyborniku.
 
-Umieść go wewnątrz bloku ``||basic: zawsze||``.
+Umieść go wewnątrz bloku ``||basic: na zawsze||``.
 
 ## 
 Wewnątrz bloku ``||basic: pokaż napis||`` zmień tekst „Hello” na swoje imię.

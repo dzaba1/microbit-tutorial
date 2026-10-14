@@ -4,7 +4,7 @@
 W tym projekcie zamienisz swojego micro:bita w grę w kamień, papier, nożyce.
 
 ## 
-Nie potrzebujesz bloków ``||basic: na początku||`` ani ``||basic: zawsze||``, więc przeciągnij je z powrotem do przybornika (środkowa część ekranu).
+Nie potrzebujesz bloków ``||basic: podczas uruchamiania||`` ani ``||basic: na zawsze||``, więc przeciągnij je z powrotem do przybornika (środkowa część ekranu).
 
 ## 
 W kategorii Wejście znajdź blok ``||input: po potrząśnięciu||`` i przeciągnij go do okna z kodem.
